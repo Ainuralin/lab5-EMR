@@ -16,7 +16,7 @@ A distributed WordCount implementation using Hadoop MapReduce on Amazon EMR with
 **Source**: Simple English Wikipedia Dump  
 **URL**: https://github.com/LGDoor/Dump-of-Simple-English-Wiki  
 **File**: `corpus.tgz` (contains `corpus.txt`)  
-**Size**: 32.8 MB (32,821,626 bytes)
+**Size**: 32.8 MB (32,821,626 bytes)  
 **Content**: Plain text from Simple English Wikipedia articles
 
 ## Complete Setup and Execution Commands
